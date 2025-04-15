@@ -1,2 +1,2 @@
 # Spotify-Frontend
-This is Spotify frontend 
+This is Spotify frontend.
